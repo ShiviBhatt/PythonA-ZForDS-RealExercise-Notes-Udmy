@@ -14,7 +14,10 @@
 * we can use math funcitons for that we need to import math library<br>
 * we can use nested math function such as round(math.sqrt(144))<br>
 * there are many ways to print the answer the recommended way is to use print(value)<br>
+* we can set variable as none if we want to assign value as null
 
-## Boolean Variables and Operators <hr> <br>
 
-* 
+## NumPy
+* NumPy is a package for scientific calculation in Python
+* Random () generated random number
+
